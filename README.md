@@ -14,7 +14,7 @@ Please check [**CHANGELOG**](./CHANGELOG.md) for information about our latest up
 
 You can simply get started with our sdk by using the following command:
 ```
-go get github.com/Meituan-Dianping/cat-go
+go get github.com/yodaGo/gocat
 ```
 
 ## Quickstart
