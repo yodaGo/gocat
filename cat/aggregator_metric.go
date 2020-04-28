@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"gocat/message"
+	"github.com/yodaGo/gocat/message"
 )
 
 type metricData struct {

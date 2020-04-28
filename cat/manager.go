@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gocat/message"
+	"github.com/yodaGo/gocat/message"
 )
 
 type catMessageManager struct {

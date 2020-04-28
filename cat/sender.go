@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"gocat/message"
+	"github.com/yodaGo/gocat/message"
 )
 
 func createHeader() *message.Header {

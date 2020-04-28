@@ -3,7 +3,7 @@ package cat
 import (
 	"time"
 
-	"gocat/message"
+	"github.com/yodaGo/gocat/message"
 )
 
 func NewTransaction(mtype, name string) message.Transactor {

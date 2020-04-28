@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"gocat/message"
+	"github.com/yodaGo/gocat/message"
 )
 
 type transactionData struct {

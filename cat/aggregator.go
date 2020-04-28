@@ -2,7 +2,7 @@ package cat
 
 import (
 	"bytes"
-	"gocat/message"
+	"github.com/yodaGo/gocat/message"
 	"strconv"
 )
 
