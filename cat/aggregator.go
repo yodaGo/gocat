@@ -2,9 +2,8 @@ package cat
 
 import (
 	"bytes"
-	"strconv"
-
 	"gocat/message"
+	"strconv"
 )
 
 const batchFlag = '@'
