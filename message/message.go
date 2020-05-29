@@ -98,7 +98,7 @@ func (m *Message) AddData(k string, v ...string) {
 
 func (m *Message) SetData(v string) {
 	m.data.Reset()
-	m.data.WriteString(v)
+	m.data.WriteString(v + "  ")
 }
 
 func (m *Message) SetStatus(status string) {
