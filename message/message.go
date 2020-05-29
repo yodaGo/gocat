@@ -98,7 +98,7 @@ func (m *Message) AddData(k string, v ...string) {
 
 func (m *Message) SetData(v string) {
 	m.data.Reset()
-	//前后添加两个空格
+	//前后添加两个空格 //
 	m.data.WriteString("  " + v + "  ")
 }
 
